@@ -1,0 +1,39 @@
+body {
+    background-image: url(imgonline-com-ua-Blur-Wy401kV0LHRmzN7m.jpg);
+    background-repeat: repeat-y;
+    background-position: left, right;
+    background-attachment:  fixed;
+   background-size: 1400px ;
+}
+.title {
+    text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-decoration-color: rgb(230, 66, 7);
+text-shadow: 2px 2px 4px #ffffff;
+}
+.ingred {
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;
+text-shadow: 2px 2px 4px #ffffff;
+}   
+.Ingrediente {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 20px;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+.Instrucțiuni {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+ font-size: 150%;
+ text-shadow: 2px 2px 4px #ffffff;
+}
+.instr {
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+img {
+ float: right;
+}

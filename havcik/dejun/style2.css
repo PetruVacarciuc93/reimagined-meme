@@ -1,0 +1,51 @@
+body{
+    background-color: #f5d7db;
+    background-image: url(imgonline-com-ua-Blur-9VxgfSjDjZ.jpg);
+    background-repeat: repeat-y;
+    background-position: left, right;
+    background-attachment:  fixed;
+   background-size: 1400px ;
+
+
+
+}
+.title {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: rgb(230, 66, 7);
+    text-shadow: 2px 2px 4px #ffffff;
+    }
+.ingrediente{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: rgb(230, 66, 7);
+    text-shadow: 2px 2px 4px #ffffff;
+    }
+.ingred{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    margin: 20px;
+    text-shadow: 2px 2px 4px #ffffff;
+}
+.Mod{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration-color: rgb(230, 66, 7);
+    text-shadow: 2px 2px 4px #ffffff;
+
+}
+.modprepar{
+    text-align: left;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 20px;
+    text-shadow: 2px 2px 4px #ffffff;
+
+}
+img{
+    float: right;
+
+}
+h2{
+    text-shadow: 2px 2px 4px #ffffff;
+    text-align: centers;
+}

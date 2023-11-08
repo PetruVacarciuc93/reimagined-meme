@@ -1,0 +1,29 @@
+body{
+font-size: large;
+font-family: sans-serif;
+background-image: url(dejunblu.jpg);
+background-repeat: repeat-y;
+background-position: left, right;
+background-attachment:  fixed;
+background-size: 1400px ;
+}
+img {
+   float: left;
+   margin-left:0.3%;
+   margin-right:0.3%;
+width: 436px;
+height: 300px;
+ }
+ .omlet{
+    text-shadow: 2px 2px 4px #ffffff;
+    text-align: left;
+margin-left: 150px;
+ }
+ .CLATITE{
+   text-align:center;
+   margin-right: 420px;
+ }
+h1{
+   text-align: center;
+   text-shadow: 2px 2px 4px #ffffff;
+}
